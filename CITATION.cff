@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SlimmableNamTrain
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Steven
+    family-names: Atkinson
+    email: steve@atkinsonadvancedmodeling.com
+    affiliation: 'Atkinson Advanced Modeling, LLC'
+    orcid: 'https://orcid.org/0009-0004-4140-3911'
+repository-code: >-
+  https://github.com/Atkinson-Advanced-Modeling/SlimmableNamTrain
+abstract: Extension for training Slimmable Neural Amp Models.
+license: MIT
+commit: 3ae055850681c37f132ac8fe8a86c8f0b501b6b3
+version: 0.1.0
+date-released: '2025-11-06'
