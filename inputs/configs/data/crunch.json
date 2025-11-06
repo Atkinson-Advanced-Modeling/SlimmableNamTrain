@@ -1,0 +1,18 @@
+{
+    "train": {
+        "start_seconds": 10.0,
+        "stop_seconds": 181.0,
+        "ny": 8192
+    },
+    "validation": {
+        "start_seconds": 181.0,
+        "stop_seconds": 190.0,
+        "ny": null
+    },
+    "common": {
+        "x_path": "inputs/data/input.wav",
+        "y_path": "inputs/data/crunch.wav",
+        "delay": 0,
+        "require_input_pre_silence": 0.2
+    }
+}
